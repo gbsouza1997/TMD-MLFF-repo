@@ -1,5 +1,8 @@
 This repository contains the database and potentials developed and is divided into two directories
 
+The directory animations/ contains animations of all modes of the rippled cell that were discussed
+on the paper as *.xyz files. These animations can be visualized using Ovito.
+
 The directory database/ contains the compressed files for the database.
 The database is composed of 5259 structures for MoS2 and 6187 structures for MoSe2.
 Each structure is an *.xsf file that could be visualized with XCrysDen or Vesta and each
