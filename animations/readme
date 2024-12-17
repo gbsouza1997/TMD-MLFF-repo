@@ -1,0 +1,7 @@
+This directory contains animations as *.xyz files
+related to the modes of the rippled cell discussed on the paper.
+
+Those animations can be visualized by using Ovito.
+
+To see the dislocation patterns of each mode using Ovito
+click "Add Modification" and "Displacement Vectors".
